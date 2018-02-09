@@ -7,8 +7,8 @@ permalink:        pretty
 # Setup
 title:            Blog
 tagline:          'by Ethan Burrell'
-description:      'A blog made by me, Ethan Burrell, about the intersection of Machine Learning and Buisness as well as life'
-url:              https://ethanburrell.github.io/blog
+description:      'A blog made by me, Ethan Burrell, about the intersection of Machine Learning and Business'
+url:              https://ethanburrell.github.io/blog/
 baseurl:          https://ethanburrell.github.io/blog/
 
 author:
@@ -22,3 +22,6 @@ version:          1.0.0
 
 github:
   repo:           https://github.com/ethanburrell/blog
+
+plugins:
+  - jekyll-feed
