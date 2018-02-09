@@ -12,8 +12,8 @@ url:              https://ethanburrell.github.io/blog/
 baseurl:          https://ethanburrell.github.io/blog/
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Ethan Burrell'
+  url:            https://ethanburrell.github.io
 
 paginate:         5
 
