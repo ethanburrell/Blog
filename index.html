@@ -11,10 +11,12 @@ title: Home
         {{ post.title }}
       </a>
     </h1>
+    <h5 style="margin: 0; border: 0;"> </h5>
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
-    {{ post.content }}
+    <!--{{ post.content }}-->
+    {{ post.content | truncatewords:50}}
   </div>
   {% endfor %}
 </div>
