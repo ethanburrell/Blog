@@ -2,8 +2,8 @@
 highlighter:      rouge
 
 # Permalinks
-#permalink:        pretty
-permalink:        /blog/:year/:month/:day/:title/
+permalink:        pretty
+#permalink:        /blog/:year/:month/:day/:title/
 
 # Setup
 title:            Blog
@@ -23,12 +23,6 @@ version:          1.0.0
 
 github:
   repo:           https://github.com/ethanburrell/
-
-defaults:
-  - scope:
-      path: "blog/public/images"
-    values:
-      image: true
 
 plugins:
   - jekyll-feed
