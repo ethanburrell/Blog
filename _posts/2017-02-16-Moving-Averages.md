@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Moving Averages
-permalink: /:year/:month/:day/:title/
+#permalink: /:year/:month/:day/:title/
 ---
 
 Over the course of this post I will be explaining moving averages and how I think they can be used to predict the future movement
@@ -13,14 +13,14 @@ Welcome to my first post on indicators for the stock market, this is going to fo
 
 I'm sure that you are all familiar with the 5 most common statistical measures: mean, median, mode, range, and standard deviation. These metrics are great at describing a large dataset, however they can also be used on a small amount of data to "smooth out" the values and create a simple representation of what has recently happened. You'll see what I mean by smoothing out in a second.
 
-![alt text](/public/images/Moving-Averages-1/Price vs Global Average.jpg "Global Average")
+![alt text](public/images/Moving-Averages-1/Price vs Global Average.jpg "Global Average")
 
 
 This is a graph of the price vs. the *global average*. The global average is the average of the price over a time period, the sum of all of the points on the "Price" line divided by the number of days. This is a great way to compare stocks over a specific
 period of time, but not necessarily usefule to visualize the activity of a stock over the short term. That's where a moving
 average comes in.
 
-![alt text](/public/images/Moving-Averages-1/Price vs. Moving Average.jpg "Moving Average")
+![alt text](public/images/Moving-Averages-1/Price vs. Moving Average.jpg "Moving Average")
 
 
 Pictured above is a *moving average*. This looks like a smoothed out and delayed copy of the price graph. To calculate this, choose a certain number of days and find the average value of the price over this time period, repeat this for each day, and this
