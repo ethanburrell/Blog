@@ -9,12 +9,12 @@ permalink:        :year/:month/:day/:title/
 title:            Blog
 tagline:          'by Ethan Burrell'
 description:      'A blog made by me, Ethan Burrell, about the intersection of Machine Learning and Business'
-url:              https://ethanburrell.github.io/
+url:              https://ethanburrell.github.io
 baseurl:          blog
 
 author:
   name:           'Ethan Burrell'
-  url:            https://ethanburrell.github.io/blog/
+  url:            https://ethanburrell.github.io/blog
 
 paginate:         5
 
