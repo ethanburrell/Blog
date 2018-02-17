@@ -15,8 +15,8 @@ I'm sure that you are all familiar with the 5 most common statistical measures: 
 ![alt text](/blog/public/images/Moving-Averages-1/Price vs Global Average.jpg "Global Average")
 
 
-This is a graph of the price vs. the *global average*. The global average is the average of the price over a time period, the sum of all of the points on the "Price" line divided by the number of days. This is a great way to compare stocks over a specific
-period of time, but not necessarily usefule to visualize the activity of a stock over the short term. That's where a moving
+This is a graph of the price vs. the *global average*. The global average is the average price over a time period. The global average is the sum of all of the points on the "Price" line divided by the number of days. This is a great way to compare stocks over a specific
+period of time, but not necessarily useful to generalize the activity of a stock over the recent past. That's where a moving
 average comes in.
 
 ![alt text](/blog/public/images/Moving-Averages-1/Price vs. Moving Average.jpg "Moving Average")
@@ -29,7 +29,7 @@ produces the moving average.
 
 The general rule with moving averages is that the average will eventually return and intersect with the actual price, this makes
 it an excellent indicator of the "true" underlying value of the commodity. When the moving average is far above the actual price,
-the commodity is commonly undervalued and it is seen as a good time to buy. On the other had, when the moving average is far below
+the commodity is commonly undervalued and it is seen as a good time to buy. On the other hand, when the moving average is far below
 the price then the stock is commonly overvalued and it could be very profitable to sell and buy in later on.
 
 Is this the real "true" value of the stock? No. However, people treat it like it is. This is just a tool to get more insight on
@@ -68,10 +68,20 @@ If the variance/behavior of the actual price is within 2 standard deviations of 
 noteworthy. As soon as the price gets outside of 2 standard deviations then a buy or sell should happen. This allows the trader
 to make trading decisions that are different from the just noise. Say a certain stock is very vulnerable constantly making 5%
 dips up and down, the standard deviation would be able to point out when the price is "out of the norm" and distinguish this from
-it's general action. This helps us distinguish when to buy and sell and ensure that the algorithm is not trading based off of
+its general action. This helps us distinguish when to buy and sell and ensure that the algorithm is not trading based off of
 noise (just general activity) of the stock.
 
 ![alt text](/blog/public/images/Moving-Averages-1/Price vs MA Bollinger.jpg "Moving Average with Bollinger")
 
 
 On wall street this is referred as a Bollinger Band®.
+
+# Conclusion
+
+While moving averages can be generally useful there are instances where they fail to make the correct decision.
+In the example below, the moving average is never "says" to sell, however the market tanks at a constant rate so the
+moving average is very near the actual price.
+
+![alt text](/blog/public/images/Moving-Averages-1/Price vs. Moving Average Decreasing.jpg "Decreasing Moving Average")
+
+That is just a case to think about, there are more edge cases with an increasing market and markets with high variance.
