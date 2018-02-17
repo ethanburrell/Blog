@@ -1,7 +1,3 @@
-http://stockcharts.com/school/doku.php?id=chart_school:technical_indicators:moving_averages
-
-1 , 2
-
 Over the course of this post I will be explaining moving averages and how I think they can be used to predict the future movement
 of the market. Please note, I am not endorsing that you should go out and trade with this type of algorithm, I am showing that
 Technical/Quantitative Analysis for financial markets can be very powerful. The data in this is a "toy example" and should not be used to base real trading off of. Thank you for reading.
