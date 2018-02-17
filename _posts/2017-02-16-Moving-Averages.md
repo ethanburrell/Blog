@@ -12,7 +12,7 @@ Welcome to my first post on indicators for the stock market, this is going to fo
 
 I'm sure that you are all familiar with the 5 most common statistical measures: mean, median, mode, range, and standard deviation. These metrics are great at describing a large dataset, however they can also be used on a small amount of data to "smooth out" the values and create a simple representation of what has recently happened. You'll see what I mean by smoothing out in a second.
 
-![alt text](public/images/Moving-Averages-1/Price vs Global Average.jpg "Global Average")
+![alt text](/blog/public/images/Moving-Averages-1/Price vs Global Average.jpg "Global Average")
 
 
 This is a graph of the price vs. the *global average*. The global average is the average of the price over a time period, the sum of all of the points on the "Price" line divided by the number of days. This is a great way to compare stocks over a specific
