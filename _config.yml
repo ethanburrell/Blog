@@ -23,5 +23,11 @@ version:          1.0.0
 github:
   repo:           https://github.com/ethanburrell/blog
 
+defaults:
+  - scope:
+      path: "public/images"
+    values:
+      image: true
+
 plugins:
   - jekyll-feed
