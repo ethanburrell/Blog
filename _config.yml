@@ -2,7 +2,8 @@
 highlighter:      rouge
 
 # Permalinks
-permalink:        pretty
+#permalink:        pretty
+permalink: /blog/:title
 
 # Setup
 title:            Blog
@@ -28,9 +29,6 @@ defaults:
       path: "blog/public/images"
     values:
       image: true
-  - scope:
-      path: "blog/"
-      type: "posts"
 
 plugins:
   - jekyll-feed
