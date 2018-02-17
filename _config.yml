@@ -8,8 +8,8 @@ permalink:        pretty
 title:            Blog
 tagline:          'by Ethan Burrell'
 description:      'A blog made by me, Ethan Burrell, about the intersection of Machine Learning and Business'
-url:              https://ethanburrell.github.io/
-baseurl:          https://ethanburrell.github.io/blog
+url:              https://ethanburrell.github.io/blog/
+baseurl:          https://ethanburrell.github.io/blog/
 
 author:
   name:           'Ethan Burrell'
