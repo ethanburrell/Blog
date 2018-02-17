@@ -2,7 +2,8 @@
 highlighter:      rouge
 
 # Permalinks
-permalink:        pretty
+#permalink:        pretty
+permalink:        /blog/:year/:month/:day/:title/
 
 # Setup
 title:            Blog
