@@ -3,14 +3,14 @@ highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
-#permalink:        /:year/:month/:day/:title/
+#permalink:        blog/:year/:month/:day/:title/
 
 # Setup
 title:            Blog
 tagline:          'by Ethan Burrell'
 description:      'A blog made by me, Ethan Burrell, about the intersection of Machine Learning and Business'
-url:              https://ethanburrell.github.io/
-baseurl:          blog/
+url:              https://ethanburrell.github.io/blog/
+#baseurl:          blog/
 
 author:
   name:           'Ethan Burrell'
