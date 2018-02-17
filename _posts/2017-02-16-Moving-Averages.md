@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: blog/:year/:month/:day/:title/
+title: Moving Averages
 ---
 
 Over the course of this post I will be explaining moving averages and how I think they can be used to predict the future movement
