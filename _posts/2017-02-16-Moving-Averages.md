@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Moving Averages
-permalink: /blog/:title
+permalink: /blog/:year/:month/:day/:title/
+
+
 ---
 Over the course of this post I will be explaining moving averages and how I think they can be used to predict the future movement
 of the market. Please note, I am not endorsing that you should go out and trade with this type of algorithm, I am showing that
