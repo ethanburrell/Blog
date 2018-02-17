@@ -28,6 +28,9 @@ defaults:
       path: "blog/public/images"
     values:
       image: true
+  - scope:
+      path: "blog/"
+      type: "posts"
 
 plugins:
   - jekyll-feed
