@@ -78,7 +78,7 @@ On wall street this is referred as a Bollinger Band®.
 
 # Conclusion
 
-While moving averages can be generally useful there are instances where they fail to make the correct decision.
+While moving averages can be generally useful, there are instances where they fail to make the correct decision.
 In the example below, the moving average is never "says" to sell, however the market tanks at a constant rate so the
 moving average is very near the actual price.
 
