@@ -10,7 +10,7 @@ title:            Blog
 tagline:          'by Ethan Burrell'
 description:      'A blog made by me, Ethan Burrell, about the intersection of Machine Learning and Business'
 url:              https://ethanburrell.github.io
-baseurl:          blog
+baseurl:          /blog
 
 author:
   name:           'Ethan Burrell'
