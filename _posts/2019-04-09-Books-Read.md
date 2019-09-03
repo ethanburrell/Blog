@@ -1,4 +1,4 @@
-create---
+furtherfurthersavingimagineselvescreate---
 layout: post
 title: Personal Book Summaries
 ---
@@ -27,9 +27,9 @@ Example is used for wine. When we buy an expensive bottle of wine and age it, it
 ---
 Happens after a studying on entertainment, on prepayment vs postpayment (page 73/74)
 
-> *Prepaying isn't just a trend, it's all around us. We buy Broadway tickets, airfare, and Burning Man passes well before we use them. Heck, you paid for this book bbefore you consumed it. *
+> *Prepaying isn't just a trend, it's all around us. We buy Broadway tickets, airfare, and Burning Man passes well before we use them. Heck, you paid for this book before you consumed it. *
 
-> *If we pay for something before consuming it, the acutal consumption of it feels almost painless. There is no pain of paying at that time nor any worrying about paying in the future. It is a pain free transaction*
+> *If we pay for something before consuming it, the actual consumption of it feels almost painless. There is no pain of paying at that time nor any worrying about paying in the future. It is a pain free transaction*
 (75)
 
 ---
@@ -62,4 +62,73 @@ Virtual ownership
 ---
 On Fairness and Effort
 
-> *Similarly, people dont' feel bad about downloading illegal music and movies for free because they reason that all the effort of producing them took place in the past, and a download does not create any additional effort or cost on the producer's part. (why anti-piracy campaigns focus the harm on the artists.)
+> *Similarly, people dont' feel bad about downloading illegal music and movies for free because they reason that all the effort of producing them took place in the past, and a download does not create any additional effort or cost on the producer's part. (why anti-piracy campaigns focus the harm on the artists.)* (143)
+
+Sometimes when selling services on the Internet, you want to some how show that we are doing work (maybe by a loading wheel p144)
+
+---
+![alt text](/blog/public/iages/Books/IMG_20190804_225651.jpg "Returns")
+
+---
+On Enhancing Consumption
+> *Enjoyment of something comes from both the sensation of the thing-- the tase of the food, the speed of the car, the sound of a song -- and what is happening in in our brain to co-create the total experience of it. We can call this the full consumption service. (p 150)*
+---
+>*The rituals we undertake during consumption make the experience special. We own it more; it becomes a greater investment, one that is more entangled in our own lives and experience. We also get a greater sense of control through rituals. An activity becomes familiar. It becomes our own when we ritualize it. We are in command. That adds value, too. (165)*
+---
+
+Emotional Definition
+> *Much of what makes us so emotionally detached from our future selves is the fact that our future selves are so poorly defined. We often imagine our future selves to be entirely different people than our present selves. We understand and feel and connect to our current needs and desires much more than our future ones. (p 188)*
+
+---
+
+> *Why are we so foolish? Because of these emotional factors -- our inability to delay gratification, the uncertainty of dying from texting while driving, and our overconfidence in our ability to avoid def. We continue to be "perfect people" in the future, but that text is now.* (190)
+
+> *When it comes to spending -- and therefore not saving -- the temptations are almost constant. We assume no ones needs a primer on our culture of consumption, but just in case, turn on the TV, go online, read a magazine, or walk through a mall and feel the temptation.* (190)
+
+---
+
+> *Prices shouldn't affect value, performance, or pleasure -- but they do. We are trained to make quick decisions based on money with every single transaction, especially in the absence of other value markers, that's what we do* (200)
+
+---
+
+> *We often focus on money as an approximation of our live's value. When we stop to think about it, we know that money isn't the most important thing in life. No one ever lies on their deathbed wishing they'd spend more time with their money. But because money is much easier to measure -- and less frightening to consider-- then whatever the meaning of life might be, we can focus on it instead.* (p 205)
+
+---
+
+What does not matter (for our purchasing decisions) in a perfectly rational world:
+
+* Sales prices or "savings" or how much we're spending at the same time on something else
+
+* The classification of our money (mental accounting)
+
+* The ease of payment
+
+* The first price we see or previous prices we've paid for a purchase (anchoring)
+
+* Our sense of ownership
+
+* whether someone appears to have worked hard
+
+* weather we give into temptations of the present
+
+* the ease of comparing the price of a product, experience or widget
+
+(p 214)
+
+---
+
+Valuation mistake that we make (pg 216)
+* Ignore opportunity costs
+* forget everything is relarive
+
+---
+
+A Tip:
+
+> *Talking with our future selves is one useful step toward shifting our thinking and building more willpower to resist the temptation of now.* 229
+
+> *A Ulysses contract is any arrangement by which we create barriers against future tempation. We give ourselves no choice; we eliminate free will.* 230
+
+(Ulysses tied himself to a ship to hear the sirens sing)
+
+> *What if ew took that binding and punishment further and created a discipline bank with a dominatrix as a logo? This bank would take every possible money decision out of our hands. Our Employer would send our check to the discipline bank. The bank would pay our bills and we'd get a weekly allowance. The money would be restricted. We couldn't do whatever we wanted with it, it would be set aside for specific usage, and the bank manager could change the rules as he or she saw fit.*
